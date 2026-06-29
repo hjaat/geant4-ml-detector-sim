@@ -1,0 +1,31 @@
+# Build files
+build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.app
+
+# Data files (large)
+*.root
+*.csv
+data/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
