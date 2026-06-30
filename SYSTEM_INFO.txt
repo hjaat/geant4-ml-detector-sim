@@ -1,0 +1,7 @@
+System Information
+==================
+OS: Windows 11 Home (64-bit)
+Compiler: g++ (MinGW-W64 x86_64-ucrt-posix-seh) 13.2.0
+CMake: 4.4.0-rc2
+Python: 3.13.14
+Installation Date: June 30, 2026
